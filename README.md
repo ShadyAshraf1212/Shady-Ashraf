@@ -1,5 +1,8 @@
 <div align="center">
 
+<h3> Shady Ashraf 👋🏻</h3>
+<p><strong> Flutter Engineer </strong></p>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 <br>
@@ -14,6 +17,7 @@
   <a href="https://t.me/ShadyAshrafffff">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ShadyAshraf1212&style=for-the-badge&color=orange&label=VIEWS" alt="Views" />
 </p>
 
 </div>
